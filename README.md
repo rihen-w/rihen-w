@@ -40,10 +40,18 @@ I am a **tech enthusiast** with a never-ending love for programming and a burnin
 ---
 
 <!-- Snake Game Repo View -->
+<br>
+<br>
+<br>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
 </div>
+
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rihen-w&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=C9D1D9" alt="Activity Graph" />
