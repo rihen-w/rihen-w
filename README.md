@@ -1,3 +1,24 @@
+# Hi there, I'm Rihen 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+JS+Enthusiast;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Tech" alt="Typing SVG" />
+</div>
+
+---
+
+## 🚀 About Me
+
+I am a **tech enthusiast** with a never-ending love for programming and a burning passion for **Web development**. I love talking to new people and discussing new ideas. I have recently started with Web Development and loving it since.
+
+- 🔭 I'm currently working on **Web Applications**
+- 🌱 I'm currently learning **GenAI, FastAPI, and Cloud Technologies**
+- 👯 I'm looking to collaborate on **MERN Stack Projects**
+- 💬 Ask me about **React, JavaScript, and Web Development**
+- 📫 How to reach me **rihenww@gmail.com**
+- ⚡ Fun fact **I'm a coding enthusiast who loves building scalable applications**
+
+---
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/riihennn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rihenkrishna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rihenww@gmail.com) 
 
@@ -12,8 +33,14 @@
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rihen-w&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=C9D1D9" alt="Activity Graph" />
+</div>
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rihen-w&theme=radical&no-frame=true&no-bg=true&margin-w=4)
